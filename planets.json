@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Mercury",
+    "orderFromSun": 1,
+    "type": "Terrestrial",
+    "radius_km": 2439.7,
+    "mass_kg": 3.3011e23,
+    "orbitalPeriod_days": 88,
+    "surfaceTemperature_min_C": -173,
+    "surfaceTemperature_max_C": 427,
+    "moons": 0,
+    "atmosphere": ["Oxygen", "Sodium", "Hydrogen", "Helium", "Potassium"]
+  },
+  {
+    "name": "Venus",
+    "orderFromSun": 2,
+    "type": "Terrestrial",
+    "radius_km": 6051.8,
+    "mass_kg": 4.8675e24,
+    "orbitalPeriod_days": 225,
+    "surfaceTemperature_average_C": 464,
+    "moons": 0,
+    "atmosphere": ["Carbon Dioxide", "Nitrogen", "Sulfur Dioxide", "Argon"]
+  },
+  {
+    "name": "Earth",
+    "orderFromSun": 3,
+    "type": "Terrestrial",
+    "radius_km": 6371,
+    "mass_kg": 5.97237e24,
+    "orbitalPeriod_days": 365.25,
+    "surfaceTemperature_min_C": -89,
+    "surfaceTemperature_max_C": 58,
+    "moons": 1,
+    "atmosphere": ["Nitrogen", "Oxygen", "Argon", "Carbon Dioxide"]
+  },
+  {
+    "name": "Mars",
+    "orderFromSun": 4,
+    "type": "Terrestrial",
+    "radius_km": 3389.5,
+    "mass_kg": 6.4171e23,
+    "orbitalPeriod_days": 687,
+    "surfaceTemperature_min_C": -125,
+    "surfaceTemperature_max_C": 20,
+    "moons": 2,
+    "atmosphere": ["Carbon Dioxide", "Nitrogen", "Argon", "Oxygen"]
+  },
+  {
+    "name": "Jupiter",
+    "orderFromSun": 5,
+    "type": "Gas Giant",
+    "radius_km": 69911,
+    "mass_kg": 1.8982e27,
+    "orbitalPeriod_days": 4333,
+    "surfaceTemperature_average_C": -108,
+    "moons": 79,
+    "atmosphere": ["Hydrogen", "Helium", "Methane", "Ammonia"]
+  },
+  {
+    "name": "Saturn",
+    "orderFromSun": 6,
+    "type": "Gas Giant",
+    "radius_km": 58232,
+    "mass_kg": 5.6834e26,
+    "orbitalPeriod_days": 10759,
+    "surfaceTemperature_average_C": -139,
+    "moons": 83,
+    "atmosphere": ["Hydrogen", "Helium", "Methane", "Ammonia"]
+  },
+  {
+    "name": "Uranus",
+    "orderFromSun": 7,
+    "type": "Ice Giant",
+    "radius_km": 25362,
+    "mass_kg": 8.6810e25,
+    "orbitalPeriod_days": 30688,
+    "surfaceTemperature_average_C": -195,
+    "moons": 27,
+    "atmosphere": ["Hydrogen", "Helium", "Methane"]
+  },
+  {
+    "name": "Neptune",
+    "orderFromSun": 8,
+    "type": "Ice Giant",
+    "radius_km": 24622,
+    "mass_kg": 1.02413e26,
+    "orbitalPeriod_days": 60182,
+    "surfaceTemperature_average_C": -201,
+    "moons": 14,
+    "atmosphere": ["Hydrogen", "Helium", "Methane"]
+  }
+]
