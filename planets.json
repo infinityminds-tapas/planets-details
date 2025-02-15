@@ -18,7 +18,8 @@
     "radius_km": 6051.8,
     "mass_kg": 4.8675e24,
     "orbitalPeriod_days": 225,
-    "surfaceTemperature_average_C": 464,
+    "surfaceTemperature_min_C": 437,
+    "surfaceTemperature_max_C": 497,
     "moons": 0,
     "atmosphere": ["Carbon Dioxide", "Nitrogen", "Sulfur Dioxide", "Argon"]
   },
@@ -53,7 +54,8 @@
     "radius_km": 69911,
     "mass_kg": 1.8982e27,
     "orbitalPeriod_days": 4333,
-    "surfaceTemperature_average_C": -108,
+    "surfaceTemperature_min_C": -145,
+    "surfaceTemperature_max_C": -108,
     "moons": 79,
     "atmosphere": ["Hydrogen", "Helium", "Methane", "Ammonia"]
   },
@@ -64,7 +66,8 @@
     "radius_km": 58232,
     "mass_kg": 5.6834e26,
     "orbitalPeriod_days": 10759,
-    "surfaceTemperature_average_C": -139,
+    "surfaceTemperature_min_C": -185,
+    "surfaceTemperature_max_C": -139,
     "moons": 83,
     "atmosphere": ["Hydrogen", "Helium", "Methane", "Ammonia"]
   },
@@ -75,7 +78,8 @@
     "radius_km": 25362,
     "mass_kg": 8.6810e25,
     "orbitalPeriod_days": 30688,
-    "surfaceTemperature_average_C": -195,
+    "surfaceTemperature_min_C": -224,
+    "surfaceTemperature_max_C": -197,
     "moons": 27,
     "atmosphere": ["Hydrogen", "Helium", "Methane"]
   },
@@ -86,7 +90,8 @@
     "radius_km": 24622,
     "mass_kg": 1.02413e26,
     "orbitalPeriod_days": 60182,
-    "surfaceTemperature_average_C": -201,
+    "surfaceTemperature_min_C": -218,
+    "surfaceTemperature_max_C": -201,
     "moons": 14,
     "atmosphere": ["Hydrogen", "Helium", "Methane"]
   }
