@@ -23,7 +23,7 @@
     "atmosphere": ["Carbon Dioxide", "Nitrogen", "Sulfur Dioxide", "Argon"]
   },
   {
-    "name": "Earth",
+    "name": "Earth (Home)",
     "orderFromSun": 3,
     "type": "Terrestrial",
     "radius_km": 6371,
