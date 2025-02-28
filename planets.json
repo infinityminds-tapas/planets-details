@@ -36,7 +36,7 @@
     "atmosphere": ["Nitrogen", "Oxygen", "Argon", "Carbon Dioxide"]
   },
   {
-    "name": "Mars",
+    "name": "Mars (The Red Planet)",
     "orderFromSun": 4,
     "type": "Terrestrial",
     "radius_km": 3389.5,
